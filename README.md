@@ -1,3 +1,7 @@
+# Name: Mlungusye, Goodluck Daniel
+
+# RegNo: 2020-04-07414
+
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
